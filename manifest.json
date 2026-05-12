@@ -1,0 +1,30 @@
+{
+  "name": "PaisaTrack",
+  "short_name": "PaisaTrack",
+  "description": "Smart Money Manager for Indians — track expenses, set budgets, and grow wealth with AI insights by Kiyara.",
+  "id": "com.paisatrack.app",
+  "start_url": "/Paisa-track-20/",
+  "scope": "/Paisa-track-20/",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone", "window-controls-overlay"],
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#f59e0b",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["finance"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
